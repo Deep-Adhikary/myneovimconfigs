@@ -1,0 +1,7 @@
+require('deepconfigs.lualine')
+require('deepconfigs.indentblankline')
+require('deepconfigs.lspconfig')
+require('deepconfigs.tree')
+require('deepconfigs.nvimcmp')
+require('deepconfigs.hop')
+require('deepconfigs.treesitter')
